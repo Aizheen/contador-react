@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap");
+
+button {
+  width: 250px;
+  height: 80px;
+  font-family: "Quicksand", sans-serif;
+  font-weight: bold;
+  color: #ffffff;
+  border-radius: 15px;
+  margin: 5px;
+  cursor: pointer;
+  font-size: 30px;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  transition: 0.5s;
+}
+
+button:hover {
+  background-color: #1a4e33;
+}
+
+.btn-clic {
+  background-color: #375371;
+}
+.btn-reset {
+  background-color: #bfd2aa;
+}

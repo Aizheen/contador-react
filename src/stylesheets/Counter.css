@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap");
+
+.counter {
+  font-family: "Quicksand", sans-serif;
+  min-width: 300px;
+  height: 300px;
+  font-size: 160px;
+  padding: 25px;
+  color: #bfd2aa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 8px solid #469470;
+  border-radius: 30px;
+  margin-bottom: 35px;
+}
